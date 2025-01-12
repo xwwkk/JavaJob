@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "ac0b0942606fe749",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f14b93312e2406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ed1c05f90a06e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.注解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.注解"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "638a5829047318c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "950e9750e585abef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3c3a5ce516105d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f5a5ce073c174d39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0d6d9175fa9b95ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64d84eb013687f16",
+    "type": "split",
+    "children": [
+      {
+        "id": "687410b50e03df8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df95ec6671659616",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.代码块.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "3.代码块 的反向链接列表"
+            }
+          },
+          {
+            "id": "483740ce86223d46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.代码块.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "3.代码块 的出链列表"
+            }
+          },
+          {
+            "id": "142bcc9b9a662b51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "16be5f94c59fe0b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.代码块.md"
+              },
+              "icon": "lucide-list",
+              "title": "3.代码块 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e7ed1c05f90a06e4",
+  "lastOpenFiles": [
+    "9.枚举类.md",
+    "10.注解.md",
+    "2.单例模式.md",
+    "8.内部类.md",
+    "1.static.md",
+    "4.属性赋值过程.md",
+    "5.final.md",
+    "6.abstract.md",
+    "7.interface.md",
+    "5.面向对象-1/总结.md",
+    "6.面向对象-2/总结.md",
+    "4.数组/总结.md",
+    "3.IDEA/工程与模块管理.md",
+    "2.流程控制/总结.md",
+    "1.变量，进制，运算符/总结.md",
+    "1.变量，进制，运算符/2.进制.md",
+    "1.变量，进制，运算符/1.String.md",
+    "3.代码块.md",
+    "~$日常安排.xlsx",
+    "面向对象.drawio.crswap",
+    "面向对象.drawio",
+    "5.面向对象-1/1.面向对象编程的概述.md",
+    "5.面向对象-1/5.封装性.md",
+    "6.面向对象-2/4.Super关键字.md",
+    "6.面向对象-2/6.Object.md",
+    "5.面向对象-1/3.属性和方法.md",
+    "6.面向对象-2/5.多态性.md",
+    "6.面向对象-2",
+    "7.toString.md",
+    "Images/向下转型.PNG",
+    "6.面向对象-2/3.重写（override）.md",
+    "Images/JVM架构.png",
+    "Images/JavaSE.jpg",
+    "Images/快速排序.jpg",
+    "5.面向对象-1",
+    "Images/递归示意图.PNG",
+    "Images",
+    "4.数组",
+    "快速排序.jpg.crdownload",
+    "JVM架构.png.crdownload",
+    "3.IDEA",
+    "未命名.canvas"
+  ]
+}
